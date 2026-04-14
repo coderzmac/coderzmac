@@ -13,8 +13,7 @@
 </p>
 
 ## 🚀 What I’m Building
-- 💸 **BudgetMate** – Personal finance app with smart insights
-- 🗺️ **Crime Hotspot Simulator** – ML + maps for spatio-temporal analysis
+- VolunteeerConnect-IOS: iOS application for managing volunteer scheduling and coordination for local nonprofit organizations using Swift and Firebase.
 
 ## 🛠️ Tech
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
